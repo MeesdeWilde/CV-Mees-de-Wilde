@@ -3,6 +3,8 @@
 /* Import declaration to use Google Fonts - check https://fonts.google.com/ for details */
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
 /* Styles for the body */
 
 body {
@@ -14,7 +16,11 @@ body {
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
-    background-color: #455645;
+	font-family: "Abril Fatface", serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #1B1B1B;
+  background-color: #455645;
 }
 
 .resume-main {
