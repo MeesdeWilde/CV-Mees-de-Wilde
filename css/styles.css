@@ -16,7 +16,7 @@ body {
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
-	font-family: "Abril Fatface", serif;
+  font-family: "Montserrat", serif;
   font-weight: 400;
   font-style: normal;
   color: #1B1B1B;
