@@ -33,7 +33,7 @@ body {
 
 /* Styles for lists in the document */
 
-.biography-details li::before, .skill-list li::before {
+.biography-details li:before, .skill-list li:before {
 	content: "-"; 
 	font-weight: 800;
 	display: inline-block;
