@@ -5,6 +5,11 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
+.title-colour {
+	color: #161A13; 
+}
+
+
 /* Styles for the body */
 
 body {
@@ -74,4 +79,8 @@ body {
   background-color: #3C5040;
   color: white;
   text-align: center;
+}
+
+.background-footer {
+	background-color: #3C5040;
 }
