@@ -13,15 +13,6 @@ body {
 	background-color: #050D26;
 }
 
-.education-text {
-	color: #455645;
-}
-
-.professional-experience-text {
-	color: #455645;
-}
-
-
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
@@ -40,6 +31,7 @@ body {
 	background-color: #759467;
 }
 
+
 /* Styles for lists in the document */
 
 .biography-details li:before, .skill-list li:before {
@@ -50,7 +42,7 @@ body {
 	margin-left: -1em;
 }
 
-.biography-details li::before {
+.biography-details li:before {
 	color: #000000;
 }
 
@@ -69,21 +61,10 @@ body {
    color: #070707; 
 } 
 
-.contact-text {
+.colour-subheadings {
     color: #455645;
 }
 
-.languages-text {
-    color: #455645;
-}
-
-.other-skills-text {
-	color: #455645;
-}
-
-.interests-text {
-	color: #455645;
-}
 
 .footer {
   position: fixed;
