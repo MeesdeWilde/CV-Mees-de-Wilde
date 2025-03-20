@@ -66,8 +66,10 @@ body {
    color: #070707; 
 } 
 
-.colour-subheadings {
+.style-subheadings {
     color: #455645;
+    text-align: center; 
+	font-style: bold; 
 }
 
 
