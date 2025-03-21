@@ -9,7 +9,6 @@
 	color: #161A13; 
 }
 
-
 /* Styles for the body */
 body {
 	font-family: "Montserrat", serif;
@@ -74,14 +73,15 @@ body {
 	background-color: #3C5040;
 }
 
+
 .footer {
   position: fixed;
   left: 0;
   bottom: 0;
-  width: 100%;
+  width: 100vw;
+  bottom-padding: 40px 0;
   padding: 15px 0;
-  max-height: 20px;
-  overflow: hidden;
+  max-height: 40px;
   background-color: #3C5040;
   color: white;
 }
