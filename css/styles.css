@@ -78,10 +78,9 @@ body {
   position: fixed;
   left: 0;
   bottom: 0;
-  width: 100vw;
+  width: 100%;
   bottom-padding: 40px 0;
   padding: 15px 0;
-  max-height: 40px;
   background-color: #3C5040;
   color: white;
 }
