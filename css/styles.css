@@ -11,7 +11,6 @@
 
 
 /* Styles for the body */
-
 body {
 	font-family: "Montserrat", serif;
 	color: #1B1B1B;
@@ -71,17 +70,23 @@ body {
     text-align: center; 
 }
 
+.background-footer {
+	background-color: #3C5040;
+}
+
 .footer {
   position: fixed;
   left: 0;
   bottom: 0;
   width: 100%;
+  padding: 15px 0;
+  max-height: 20px;
+  overflow: hidden;
   background-color: #3C5040;
   color: white;
-  text-align: center;
 }
 
 
-.background-footer {
-	background-color: #3C5040;
-}
+
+
+
