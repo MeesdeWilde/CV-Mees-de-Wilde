@@ -71,7 +71,6 @@ body {
     text-align: center; 
 }
 
-
 .footer {
   position: fixed;
   left: 0;
@@ -81,6 +80,7 @@ body {
   color: white;
   text-align: center;
 }
+
 
 .background-footer {
 	background-color: #3C5040;
