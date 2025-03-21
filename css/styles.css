@@ -73,7 +73,6 @@ body {
 	background-color: #3C5040;
 }
 
-
 .footer {
   left: 0;
   bottom: 0;
@@ -81,7 +80,7 @@ body {
   bottom-padding: 40px 0;
   padding: 15px 0;
   background-color: #3C5040;
-  color: white;
+  color: white; 
 }
 
 
